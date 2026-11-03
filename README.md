@@ -8,8 +8,8 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 Estudiando **Desarrollo de Aplicaciones Web (DAW)**.
-- 💻 Enfocado en desarrollo backend y web con **PHP**, **Java**, **HTML/CSS** y bases de datos.
+- 🎓  **Desarrollo de Aplicaciones Web (DAW)**.
+- 💻 Enfocado en desarrollo backend y web con **PHP**, **Javascript**, **HTML/CSS** y bases de datos.
 - 🛠️ Creando proyectos prácticos y aplicando patrones de diseño.
 
 ---

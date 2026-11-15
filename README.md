@@ -35,6 +35,7 @@
 | :--- | :---: | :--- |
 | **[API-de-peliculas](https://github.com/andresherreragarrido99/API-de-peliculas)** | `PHP` | API para la gestión y consulta de datos cinematográficos. |
 | **[ejemploFactory](https://github.com/andresherreragarrido99/ejemploFactory)** | `PHP` | Implementación y ejemplo del patrón de diseño creacional Factory. |
+| **[CrudLibros](https://github.com/andresherreragarrido99/CrudLibros)** | `PHP` | Aplicación web CRUD de gestión de biblioteca con arquitectura POO, PDO, control de roles y Tailwind CSS. |
 | **[gitrepositorio_restaurante](https://github.com/andresherreragarrido99/gitrepositorio_restaurante)** | `HTML` | Estructura web orientada a la carta y servicios de un restaurante. |
 | **[TallerMecanico](https://github.com/andresherreragarrido99/TallerMecanico)** | `Java` | Sistema de gestión para taller mecánico orientado a objetos. |
 | **[CuatroEnRaya](https://github.com/andresherreragarrido99/CuatroEnRaya)** | `Java` | Juego de mesa interactivo Cuatro en Raya desarrollado en Java. |
